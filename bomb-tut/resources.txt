@@ -1,0 +1,2 @@
+https://web.stanford.edu/class/archive/cs/cs107/cs107.1216/guide/x86-64.html
+https://gist.github.com/nicknapoli82/30f1c7b30e7b1561026d88655e5278f7

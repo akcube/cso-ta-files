@@ -1,0 +1,14 @@
+Python commands
+
+Decimal to other types
+	print(hex(42)) => 0x2a
+	print(bin(42)) => 0b101010
+	print(chr(42)) => *
+
+Other types to decimal
+	print(int("0x2a", 16)) => 42
+	print(int("0b101010", 2)) => 42
+	print(ord('*')) => 42
+
+python3 script.py ./gcd gcd_cases gcd_out_cases
+python3 script.py ./min_max min_max_cases min_max_out_cases
